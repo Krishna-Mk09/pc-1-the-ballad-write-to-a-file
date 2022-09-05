@@ -1,6 +1,5 @@
 package com.jap.ballad;
 
-import com.jap.ballad.Ballad;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
